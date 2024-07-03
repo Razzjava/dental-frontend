@@ -1,0 +1,25 @@
+frontend look:
+- portal to dentist to register and show free spaces available
+- portal for individuals to register with local dentists
+-login popover
+- import UUID - ensure all components have unique IDs
+
+
+
+Technology used for this project:
+frontend:
+React JS (JavaScript)
+
+
+Backend:
+Node.js (Express)
+pocketbase (maybe) - db, authentication and user management
+
+
+
+
+
+
+
+
+
